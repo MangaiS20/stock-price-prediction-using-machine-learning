@@ -1,7 +1,19 @@
 # Dataset
 
-This project uses historical Adani stock price data for developing and evaluating machine learning and deep learning models for stock price prediction.
+This project uses historical stock price data of **Adani Enterprises Ltd.** for time-series forecasting and comparative model evaluation.
 
-Due to licensing and data source restrictions, the dataset is not included in this repository.
+The dataset includes:
 
-Users can download historical stock data from financial data providers such as Yahoo Finance or NSE and place it in this folder before running the project.
+- Date
+- Open Price
+- High Price
+- Low Price
+- Close Price
+- Adjusted Close Price
+- Volume
+
+## Dataset Source
+
+Historical market data can be obtained from publicly available financial data providers such as **Yahoo Finance**.
+
+The dataset is not included in this repository.
